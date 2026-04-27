@@ -1,18 +1,15 @@
 # Fitting and Alignment
 
 ## Overview
-This project contains the solution for Computer Vision. In here focuses on implementing and analyzing computer vision techniques.
+This project explores filtering and image alignment techniques in computer vision. It includes the implementation of various image processing methods and alignment algorithms, along with analysis of their performance.
 
 ## Features
-- Image processing and manipulation
-- Computer vision algorithm implementation
-- Performance analysis and visualization
-- Detailed documentation
+- Implementation of image filtering techniques
+- Visualization of results and performance comparisons
+- Analysis of algorithm efficiency and accuracy
 
 ## Requirements
 - Python 3.8+
 - OpenCV (cv2)
 - NumPy
 - Matplotlib
-- Scikit-image
-- Jupyter Notebook
